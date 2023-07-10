@@ -14,7 +14,7 @@ NK Codes💛 - Age Calculator
 
 Live Demo:
 
-   
+   https://nishap24.github.io/JS-Project-Day-6-Age-Calculator/ 
     
 ## Getting Started
 
