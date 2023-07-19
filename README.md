@@ -39,6 +39,10 @@ To explore or modify the code, follow these steps:
 
 3. Cross-Device Compatibility: The age calculator is compatible with different devices, including desktops, laptops, tablets, and mobile phones. Although it may not be fully responsive, it ensures functionality across a range of screen sizes and resolutions. Whether you're accessing the calculator from a large desktop monitor or a smaller mobile screen, you can still perform age calculations with ease. The layout and design adapt to different devices, providing a satisfactory user experience across platforms.
 
+## Deployment Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0219a724-50d6-49cb-ab2f-8c32c2b42ad8/deploy-status)](https://app.netlify.com/sites/kanasu-age-calculator/deploys)
+
 ## Contributing
 
 Contributions are always welcome!
@@ -57,7 +61,7 @@ NK :
 
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nishap24)
 
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_p_24)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nisha_2407_)
 
 
 Thank you for visiting the page!
